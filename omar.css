@@ -1,0 +1,14 @@
+.title{
+    color: red; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.end{
+    color: rgb(234, 22, 22);
+}
+.uol a{
+    text-decoration: darkgray;
+    color: rgb(34, 34, 212);
+}
+.uol {
+    font-size: 13px;
+}
