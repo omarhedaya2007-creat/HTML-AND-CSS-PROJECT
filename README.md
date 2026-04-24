@@ -8,11 +8,11 @@ This project is an application of Web Development skills (HTML & CSS), featuring
 **Omar Mohamed**
 
 ## Project Features ✨
-* Modern and responsive design.
-* Sports car image gallery.
-* Integrated interactive calculator.
+* Log in page.
+* Scientific Departments: Detailed sections for Civil , Mechanical , Electrical , Architecture , Geomatics departments.
+* Things you would like to see: Some Team Works and Credit Hours Program and others!
 
-## Technologies Used 🛠️
+## Program Language Used 🛠️
 * HTML 5
 * CSS 3
 
