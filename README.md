@@ -3,9 +3,9 @@
 This project is an application of Web Development skills (HTML & CSS), featuring a website for Scientific Departments of Shubra faculty of engineering.
 
 ## Team Members 👥
-**Omar Hedaya**
-**Omar Othman**
-**Omar Mohamed**
+* **Omar Hedaya**
+* **Omar Othman**
+* **Omar Mohamed**
 
 ## Project Features ✨
 * Log in page.
