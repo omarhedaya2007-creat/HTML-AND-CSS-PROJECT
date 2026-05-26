@@ -1,6 +1,6 @@
 # HTML AND CSS PROJECT 
 
-This project is an application of Web Development skills (HTML & CSS), featuring a website for Scientific Departments of Shoubra faculty of engineering.
+This project is an application of Web Development skills (HTML & CSS), featuring a website for Scientific Departments of Shoubra faculty of Engineering.
 
 ## Team Members 👥
 * **Omar Hedaya**
